@@ -1,6 +1,6 @@
 # blog-preview-card
 
-This project is taken from the site (https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)and is purely for practice and education purposes.
+This project is taken from the site (https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS) and is purely for practice and education purposes.
 Only with HTML / CSS without using javascript.
 
 -----------------------------------------
